@@ -5,6 +5,10 @@ copyright:
   We are committed to an inclusive environment where everyone has the chance to thrive and to the principles of equal opportunity and affirmative action. <br>
   EOE/AA/Women/Minority/Vets/Disabled <br>
 docs_dir: 'docs'
+plugins:
+  - search
+  - awesome-pages
+  - autolinks
 theme:
   name: material
   features:
