@@ -4,7 +4,7 @@ copyright:
   Vanderbilt Health recognizes that diversity is essential for excellence and innovation. <br>
   We are committed to an inclusive environment where everyone has the chance to thrive and to the principles of equal opportunity and affirmative action. <br>
   EOE/AA/Women/Minority/Vets/Disabled <br>
-
+docs_dir: 'docs'
 theme:
   name: material
   features:
