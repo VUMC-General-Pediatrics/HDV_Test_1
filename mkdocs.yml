@@ -9,6 +9,15 @@ plugins:
   - search
   - awesome-pages
   - autolinks
+  - git-revision-date-localized:
+      type: iso_datetime
+      fallback_to_build_date: true
+  - print-site:
+      add_to_navigation: true
+      print_page_title: 'Print Site'
+      add_print_site_banner: true
+      enumerate_headings: false
+      enumerate_figures: false
 theme:
   name: material
   features:
