@@ -108,6 +108,10 @@ markdown_extensions:
       auto_append:
         - includes/abbreviations.md
 
+nav:
+  - Home: index.md
+  - ADHD:
+
 
 
 
