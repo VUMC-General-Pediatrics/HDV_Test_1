@@ -21,11 +21,8 @@ plugins:
 theme:
   name: material
   features:
-    - navigation.tabs
-    - navigation.sections
     - navigation.path
     - toc.integrate
-    - navigation.top
     - search.suggest
     - search.highlight
     - search.share
